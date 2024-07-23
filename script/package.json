@@ -38,7 +38,7 @@
     "node-fetch": "^2.6.7",
     "normalize-package-data": "2.3.5",
     "npm": "^6.14.16",
-    "npm-check": "^5.9.2",
+    "npm-check": "^6.0.1",
     "passwd-user": "2.1.0",
     "pegjs": "0.9.0",
     "prettier": "^1.17.0",
